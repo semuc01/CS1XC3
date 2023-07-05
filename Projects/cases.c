@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     int choice;
 
     printf("Enter a number between 1 and 3: ");
